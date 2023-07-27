@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,Greetings, Rayhan Uddin</h1>
-<h3 align="center">I am a Data Scientist with a strong background in software engineering; and used to handling a variety of data pipelines and databases, included unstructured ones. I have prototyped four products, and I am looking for product oriented role (also consulting), possibly building from scratch.”</h3>
+<h3 align="center">I am a Data Analyst with a strong background in Engineering,; and I am used to handling a variety of data pipelines and databases, including unstructured ones. I have prototyped four products, and I am looking for product oriented role (also consulting), possibly building from scratch.”</h3>
 
 - 🌱 I’m currently learning Data Science **DataNerd**
 
