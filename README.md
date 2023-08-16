@@ -3,7 +3,7 @@
 
 - 🌱 I am searching for an opportunity as a junior Data Anlyst.
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1TFuQpiPb2DTgPOkrAvvoO_HsZPgoDL20/edit?usp=sharing&ouid=113746493268084021394&rtpof=true&sd=true](https://docs.google.com/document/d/1TFuQpiPb2DTgPOkrAvvoO_HsZPgoDL20/edit?usp=sharing&ouid=113746493268084021394&rtpof=true&sd=true)](https://drive.google.com/file/d/1KjKE_BJI-flPQAZFbTZxtAqQ5ziyf6Ip/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1KjKE_BJI-flPQAZFbTZxtAqQ5ziyf6Ip/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
